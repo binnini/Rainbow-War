@@ -1,7 +1,7 @@
 # Rainbow War
 
 <div align="center">
-  <img src="Images/메인_화면.jpg" alt="메인 화면" width="600"/>
+  <img src="Images/main.png" alt="메인 화면" width="600"/>
 </div>
 
 ## 📌 요약
@@ -23,13 +23,13 @@
 ## 📝 인게임 화면 & 영상
 
 ### 로비 화면
-<img src="Images/로비_화면.jpg" alt="로비 화면" width="500"/>
+<img src="Images/lobby.png" alt="로비 화면" width="500"/>
 
 ### 인게임 화면  
-<img src="Images/플레이_화면1.jpg" alt="플레이 화면1" width="300"/>
-<img src="Images/플레이_화면2.png" alt="플레이 화면2" width="300"/>
-<img src="Images/플레이_화면3.png" alt="플레이 화면3" width="300"/>
-<img src="Images/사망_화면.png" alt="인게임 화면4" width="300"/>
+<img src="Images/playing1.png" alt="플레이 화면1" width="300"/>
+<img src="Images/playing2.png" alt="플레이 화면2" width="300"/>
+<img src="Images/playing3.png" alt="플레이 화면3" width="300"/>
+<img src="Images/death.png" alt="인게임 화면4" width="300"/>
 
 ### 📌 시연 영상
 
