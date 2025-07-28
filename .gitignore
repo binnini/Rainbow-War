@@ -1,0 +1,28 @@
+# 유니티 기본 무시 파일
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# VS 관련
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# OS 임시파일
+.DS_Store
+Thumbs.db
+
+# 기타
+*.apk
+*.aab
+*.keystore
+*.zip
+Assets/Resource/Sound/*

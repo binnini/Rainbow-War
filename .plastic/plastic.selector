@@ -1,0 +1,3 @@
+rep "Rainbow_War@Rainbow_War@cloud"
+  path "/"
+    smartbranch "/main"
