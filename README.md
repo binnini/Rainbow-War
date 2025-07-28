@@ -29,7 +29,7 @@
 <img src="Images/playing1.jpg" alt="플레이 화면1" width="800"/>
 <img src="Images/playing2.png" alt="플레이 화면2" width="800"/>
 <img src="Images/playing3.png" alt="플레이 화면3" width="800"/>
-<img src="Images/death.png" alt="인게임 화면4" width="300"/>
+<img src="Images/death.png" alt="인게임 화면4" width="800"/>
 
 ### 📌 시연 영상
 
